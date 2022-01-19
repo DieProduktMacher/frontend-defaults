@@ -1,0 +1,17 @@
+{
+  "name": "@dieproduktmacher/prettier-config",
+  "version": "0.1.1",
+  "description": "Shared Prettier config",
+  "main": "index.js",
+  "repository": "https://github.com/DieProduktMacher/frontend-defaults",
+  "author": "Thomas May <thomas.may@produktmacher.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 14"
+  },
+  "files": ["README.md", "LICENSE", "index.js"],
+  "peerDependencies": {
+    "prettier": ">=2"
+  }
+}

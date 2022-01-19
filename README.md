@@ -4,7 +4,7 @@ Default configs for frontend projects
 
 ## Table of contents
 
--   [Documentation](#documentation)
+- [Documentation](#documentation)
 
 ## Documentation
 

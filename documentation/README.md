@@ -15,83 +15,83 @@ Introduction
 
 #### Languages
 
--   Language of content (translations)
--   Language of code and documentation
+- Language of content (translations)
+- Language of code and documentation
 
 #### Accessibility
 
--   Accessibility level
+- Accessibility level
 
 #### SEO
 
--   Meta, Keywords
--   HTML Validity
+- Meta, Keywords
+- HTML Validity
 
 #### Tracking
 
--   Implemenation
+- Implemenation
 
 ### Quality Assurance
 
 #### Browser Test Matrix
 
--   Browser
--   Devices
+- Browser
+- Devices
 
 #### Linting
 
--   Tools
--   Rules
+- Tools
+- Rules
 
 #### Testing
 
--   Unit tests
--   Integration tests
+- Unit tests
+- Integration tests
 
 #### Automated testing
 
--   Test integaration
+- Test integaration
 
 ## Development
 
 ### URL
 
--   Confluence / Specification
--   Jira / Tickting
--   Design / Styleguide / Wireframes
--   Environments
+- Confluence / Specification
+- Jira / Tickting
+- Design / Styleguide / Wireframes
+- Environments
 
 ### Code guidelines
 
--   ESLint
--   SonarCloud
--   Commit message format
+- ESLint
+- SonarCloud
+- Commit message format
 
 ### Tech
 
 #### Core technologies
 
--   React
--   TailwindCSS
+- React
+- TailwindCSS
 
 #### Libraries / Dependencies
 
--   Something to emphasise
--   See `package.json`
+- Something to emphasise
+- See `package.json`
 
 #### Clientside Storage
 
--   Cookies
--   localStorage
+- Cookies
+- localStorage
 
 #### Licenses
 
--   Open Source
--   Payed licenses
+- Open Source
+- Payed licenses
 
 #### Interfaces / API
 
--   API documentation
+- API documentation
 
 #### Documentation
 
@@ -99,60 +99,60 @@ Introduction
 
 #### Media Queries
 
--   Responsive
--   Print
+- Responsive
+- Print
 
 #### Webfonts
 
--   Sources
+- Sources
 
 #### Icons
 
--   Sources
+- Sources
 
 #### Images
 
--   Sources
--   Optimisation
+- Sources
+- Optimisation
 
 ## Deployment
 
 ### Minification & Compression
 
--   Optimisation for production build
+- Optimisation for production build
 
 ### CI / CD
 
--   Scripts and steps
--   How to adapt
+- Scripts and steps
+- How to adapt
 
 ### Local development
 
--   Getting started
+- Getting started
 
 ## Setup
 
 ### Prerequisites
 
--   OS
--   Node version
--   NPM version
+- OS
+- Node version
+- NPM version
 
 ### Getting started
 
--   How to get started
+- How to get started
 
 ### Available scripts
 
--   `yarn start`
--   `yarn build`
--   `yarn test`
+- `yarn start`
+- `yarn build`
+- `yarn test`
 
 ### Folder structure
 
--   `components`
--   `features`
+- `components`
+- `features`
 
 ## Miscellaneous
 
--   More comments here
+- More comments here
