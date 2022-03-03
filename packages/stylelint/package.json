@@ -1,6 +1,6 @@
 {
   "name": "@dieproduktmacher/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Shared Stylelint config",
   "main": "index.js",
   "repository": "https://github.com/DieProduktMacher/frontend-defaults",
@@ -12,10 +12,10 @@
   },
   "files": ["README.md", "LICENSE", "index.js"],
   "peerDependencies": {
-    "stylelint": ">=2"
+    "stylelint": ">=14"
   },
   "dependencies": {
-    "stylelint-config-standard": "^24.0.0",
-    "stylelint-config-prettier": "^9.0.3"
+    "stylelint-config-prettier-scss": "^0.0.1",
+    "stylelint-config-standard-scss": "^3.0.0"
   }
 }
