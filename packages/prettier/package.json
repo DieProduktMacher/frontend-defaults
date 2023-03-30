@@ -10,11 +10,7 @@
   "engines": {
     "node": ">= 14"
   },
-  "files": [
-    "README.md",
-    "LICENSE",
-    "index.js"
-  ],
+  "files": ["README.md", "LICENSE", "index.js"],
   "peerDependencies": {
     "prettier": ">=2"
   },
